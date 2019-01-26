@@ -33,4 +33,4 @@ Please feel free to contact me at ganeshrvel@outlook.com
 ### License
 tutorial-series-ganesh-rathinavel is released under [MIT License](https://github.com/ganeshrvel/tutorial-series-ganesh-rathinavel/blob/master/LICENSE "MIT License").
 
-Copyright © 2018 - Present Ganesh Rathinavel
+Copyright © 2018-Present Ganesh Rathinavel
