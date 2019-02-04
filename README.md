@@ -16,6 +16,7 @@
 ### Links
 - [Import values from package.json into electron/nodejs application](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo "Import values from package.json into electron/nodejs application")
 - [Bundle a precompiled binary or native file into an electron app](https://github.com/ganeshrvel/tutorial-electron-bundle-binaries "Bundle a precompiled binary or native file into an electron app")
+- [Prevent duplicate windows in an electron app invoked from renderer and main processes](https://github.com/ganeshrvel/tutorial-electron-window-switching "Prevent duplicate windows in an electron app invoked from renderer and main processes")
 - [Electron Builder AfterPack configuration](https://github.com/ganeshrvel/tutorial-electron-afterpack-script "Electron Builder AfterPack configuration")
 
 ### Buy me a coffee
